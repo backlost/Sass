@@ -10,6 +10,7 @@ Collection best of Sass Mixins and Function.If you have seen good and meaningful
 
 ###Beginner
 
+- [Your nesting is harmful](https://medium.com/@verpixelt/your-nesting-is-harmful-a1ffddaf7e43) by [@Kevin Lorenz](https://medium.com/@verpixelt)
 - [Getting Started with Sass (with interactive examples)](http://scotch.io/tutorials/css/getting-started-with-sass) by [@Ken Wheeler](http://scotch.io/author/kenwheeler)——[译文](http://www.w3cplus.com/preprocessor/getting-started-with-sass.html) by [@南北](http://weibo.com/sunchongsheng)
 - [Themed Styles With Sass](http://seesparkbox.com/foundry/themed_styles_with_sass) by [@ETHAN MULLER](http://seesparkbox.com/foundry/author/ethan_muller)——[译文](http://www.w3cplus.com/preprocessor/themed-styles-with-sass.html) by [@南北](http://weibo.com/sunchongsheng)
 - [Understanding Sass Units](http://www.sitepoint.com/understanding-sass-units/) By [@Hugo Giraudel](http://www.sitepoint.com/author/hgiraudel/)
@@ -34,6 +35,7 @@ Collection best of Sass Mixins and Function.If you have seen good and meaningful
 
 ###Workflow
 
+- [Aesthetic Sass 1: Architecture and Style Organization](https://scotch.io/tutorials/aesthetic-sass-1-architecture-and-style-organization) by [@David Khourshid](https://scotch.io/author/david)
 - [A Look at Different Sass Architectures](http://www.sitepoint.com/look-different-sass-architectures/) by [@Vinay Raghu](http://www.sitepoint.com/author/vraghu/)——[译文](http://www.w3cplus.com/preprocessor/look-different-sass-architectures.html) by [@南北](http://weibo.com/sunchongsheng)
 - [HOW I IMPROVED MY WORKFLOW WITH SMACSS & SASS](http://bramsmulders.com/how-i-improved-my-workflow-with-smacss-sass.html) by [@bramsmulders](http://twitter.com/bramsmulders)
 - [Writing CSS (and Sass) that doesn’t suck](http://ashleynolan.co.uk/blog/writing-css-and-sass-that-doesnt-suck) by [@Ashley Nolan](http://twitter.com/AshNolan_)
