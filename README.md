@@ -45,6 +45,7 @@ Collection best of Sass Mixins and Function.If you have seen good and meaningful
 
 ###Mixins
 
+- [Theming Form Elements with Sass](http://www.sitepoint.com/theming-form-elements-sass/) by [@Dennis Gaebel](http://www.sitepoint.com/author/dgaebel/)
 - [Smarter Sass Mixins with Null](http://blog.teamtreehouse.com/smarter-sass-mixins-null) by [@Guil Hernandez](http://blog.teamtreehouse.com/author/guillermohernandez)
 - [The Self-Aware Sass Mixin](http://lunelson.roughdraft.io/cc1b431a69360949dc01-the-self-aware-sass-mixin) by [@Lunelson](https://github.com/lunelson)
 - [How to use ampersands to simplifiy your sass](http://seesparkbox.com/foundry/how_to_use_ampersands_to_simplifiy_your_sass) by [@Hearsparkbox](https://twitter.com/hearsparkbox)
@@ -99,6 +100,7 @@ Collection best of Sass Mixins and Function.If you have seen good and meaningful
 
 ###Maps
 
+- [Mappy Breakpoints, A Breakpoint Mixin that uses Sass Maps](http://www.zell-weekeat.com/mappy-breakpoints/)
 - [Debugging Sass Maps](http://www.sitepoint.com/debugging-sass-maps/) by [@Hugo Giraudel](http://www.sitepoint.com/author/hgiraudel/)
 - [SASS Maps != Source Maps](http://www.matrixgroup.net/snackoclock/2014/10/sass-maps-source-maps/) by [@Jaime Quiroz](http://www.matrixgroup.net/snackoclock/author/jquiroz/)
 - [Real Sass, Real Maps](http://blog.grayghostvisuals.com/sass/real-sass-real-maps/) by [@gryghostvisuals](http://twitter.com/gryghostvisuals)
@@ -116,6 +118,7 @@ Collection best of Sass Mixins and Function.If you have seen good and meaningful
 
 ###RWD
 
+- [RESPONSIVE SASS MIXIN FOR INLINE SVG](http://unicorn-ui.com/blog/responsive-svg-mixin.html) by [@Rob Levin](http://unicorn-ui.com/about)
 - [Tutorial on Sass media queries : Creating responsive layouts easily](http://www.htmlxprs.com/post/15/tutorial-on-sass-media-queries-creating-responsive-layouts-easily) by [@Syed Fazle Rahman](http://www.htmlxprs.com/author/fazlerocks)
 - [Scaling Values Across Breakpoints Using Sass](http://www.sitepoint.com/scaling-values-across-breakpoints-using-sass/) by [@James Steinbach](http://www.sitepoint.com/author/jsteinbach/)
 - [Sass-based Media Queries With Breakpoint](http://www.sitepoint.com/sass-based-media-queries-with-breakpoint/) by [@James Steinbach](http://www.sitepoint.com/author/jsteinbach/)
@@ -145,6 +148,7 @@ Collection best of Sass Mixins and Function.If you have seen good and meaningful
 
 ###Sass Tools & Compile
 
+- [Sass Source Maps + Chrome = Magic](https://robots.thoughtbot.com/sass-source-maps-chrome-magic) by [@Mike Borsare](https://twitter.com/mborsare)
 - [Gulpin Sass to CSS](http://rikschennink.nl/thoughts/gulpin-sass-to-css/) by [@Rik Schennink](http://rikschennink.nl)
 - [Using Grunt, bootstrap, Compass and Sass in a Drupal sub theme](http://deeson-online.co.uk/labs/using-grunt-bootstrap-compass-and-sass-drupal-sub-theme) by [@David Allard](http://deeson-online.co.uk/category/author/david-allard)
 - [Using Source Maps to Debug Sass in Chrome](http://www.sitepoint.com/using-source-maps-debug-sass-chrome/) by [＠Vinay Raghu](http://www.sitepoint.com/author/vraghu/)
