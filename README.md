@@ -10,6 +10,7 @@ Collection best of Sass Mixins and Function.If you have seen good and meaningful
 
 ###Beginner
 
+- [Sass Basics: Control Directives and Expressions](http://www.sitepoint.com/sass-basics-control-directives-expressions/) by [@Reggie Dawson](http://www.sitepoint.com/author/rdawson/)
 - [Your nesting is harmful](https://medium.com/@verpixelt/your-nesting-is-harmful-a1ffddaf7e43) by [@Kevin Lorenz](https://medium.com/@verpixelt)
 - [Getting Started with Sass (with interactive examples)](http://scotch.io/tutorials/css/getting-started-with-sass) by [@Ken Wheeler](http://scotch.io/author/kenwheeler)——[译文](http://www.w3cplus.com/preprocessor/getting-started-with-sass.html) by [@南北](http://weibo.com/sunchongsheng)
 - [Themed Styles With Sass](http://seesparkbox.com/foundry/themed_styles_with_sass) by [@ETHAN MULLER](http://seesparkbox.com/foundry/author/ethan_muller)——[译文](http://www.w3cplus.com/preprocessor/themed-styles-with-sass.html) by [@南北](http://weibo.com/sunchongsheng)
@@ -24,9 +25,11 @@ Collection best of Sass Mixins and Function.If you have seen good and meaningful
 
 ###Sass Variables
 
+- [Understanding Variable Scope in Sass](http://webdesign.tutsplus.com/articles/understanding-variable-scope-in-sass--cms-23498) by [@George Martsoukos](http://tutsplus.com/authors/george-martsoukos)
 - [Better Sass variables through abstraction](http://craigmdennis.com/articles/better-sass-variables) by [@Craig](http://craigmdennis.com/about)——[译文](http://www.w3cplus.com/preprocessor/better-sass-variables.html) by [@南北](http://weibo.com/sunchongsheng)
 
 ###Sass Features
+
 - [Sass 3.4 is Out!](http://www.sitepoint.com/sass-3-4-is-out/) by [@Hugo Giraudel](http://www.sitepoint.com/author/hgiraudel/)——[译文](http://www.w3cplus.com/preprocessor/sass-3-4-is-out.html) by [@南北](http://weibo.com/sunchongsheng)
 - [Everything you need to know about Sass 3.4](http://www.phase2technology.com/blog/everything-you-need-to-know-about-sass-3-4/) by [@Micah Godbolt](http://www.phase2technology.com/author/mgodbolt)——[译文](http://www.w3cplus.com/preprocessor/everything-you-need-to-know-about-sass-3-4.html) by [@大漠](http://www.w3cplus.com)
 - [Emulate the Invert Filter Effect with Sass](http://davidwalsh.name/invert-color-sass) by [@Ana Tudor](http://about.me/thebabydino)——[译文](http://www.w3cplus.com/preprocessor/invert-color-sass.html) by [@南北](http://weibo.com/sunchongsheng)
