@@ -148,6 +148,7 @@ Collection best of Sass Mixins and Function.If you have seen good and meaningful
 - [Sass for Big Sites, Part 1](http://webstandardssherpa.com/reviews/sass-for-big-sites-part-1) by [@Jackie Balzer](http://webstandardssherpa.com/about/authors/jackie-balzer/)
 - [Sass for Big Sites, Part 2](http://webstandardssherpa.com/reviews/sass-for-big-sites-part-2/) by [@Jackie Balzer](http://webstandardssherpa.com/about/authors/jackie-balzer/)
 - [Aesthetic Sass 1: Architecture and Style Organization](https://scotch.io/tutorials/aesthetic-sass-1-architecture-and-style-organization) by [@David Khourshid    ](https://scotch.io/author/david)
+- [Aesthetic Sass 2: Colors and Palettes](https://scotch.io/tutorials/aesthetic-sass-2-colors) by [@David Khourshid    ](https://scotch.io/author/david)
 
 ###Sass Tools & Compile
 
