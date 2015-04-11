@@ -25,7 +25,7 @@ Collection best of Sass Mixins and Function.If you have seen good and meaningful
 
 ###Sass Variables
 
-- [Understanding Variable Scope in Sass](http://webdesign.tutsplus.com/articles/understanding-variable-scope-in-sass--cms-23498) by [@George Martsoukos](http://tutsplus.com/authors/george-martsoukos)
+- [Understanding Variable Scope in Sass](http://webdesign.tutsplus.com/articles/understanding-variable-scope-in-sass--cms-23498) by [@George Martsoukos](http://tutsplus.com/authors/george-martsoukos)[大漠认领]
 - [Better Sass variables through abstraction](http://craigmdennis.com/articles/better-sass-variables) by [@Craig](http://craigmdennis.com/about)——[译文](http://www.w3cplus.com/preprocessor/better-sass-variables.html) by [@南北](http://weibo.com/sunchongsheng)
 
 ###Sass Features
