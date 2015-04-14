@@ -61,7 +61,6 @@ Collection best of Sass Mixins and Function.If you have seen good and meaningful
 
 - [A Bulletproof Function to Validate Length Values in Sass](http://www.sitepoint.com/bulletproof-function-validate-length-values-sass/) by [@Hugo Giraudel](http://www.sitepoint.com/author/hgiraudel/)
 - [Cubic Bézier representation in Sass](http://thesassway.com/advanced/cubic-bezier-representation-in-sass) by [@Tim Severien](http://twitter.com/timseverien) and [@Hugo Giraudel](http://twitter.com/hugogiraudel)
-- [A Dynamic Gradient Text Function in Sass](http://www.sitepoint.com/dynamic-gradient-text-function-sass/) by [@Hugo Giraudel](http://www.sitepoint.com/author/hgiraudel/)
 - [Sass Basics: The Function Directive](http://www.sitepoint.com/sass-basics-function-directive/) by [@Reggie Dawson](http://www.sitepoint.com/author/rdawson/)
 
 ###Typography
@@ -96,6 +95,9 @@ Collection best of Sass Mixins and Function.If you have seen good and meaningful
 - [HSB Colors with Sass](http://www.sitepoint.com/hsb-colors-with-sass/) by [@Alexander Futekov](http://www.sitepoint.com/hsb-colors-with-sass/)
 - [Quick Color with SASS](http://blog.revelry.co/post/97873761305/quick-color-with-sass) 
 - [Managing Color Values with Sass](http://www.sitepoint.com/managing-color-values-with-sass/) by [@James Steinbach](http://www.sitepoint.com/author/jsteinbach/)
+- [A Better Way for Dynamically Choosing a Readable Text Colour with Sass](https://lnikki.la/articles/sass-better-colour-based-on-brightness/) by [@Leo Nikkilä](https://twitter.com/lnikkila)
+- [A Dynamic Gradient Text Function in Sass](http://www.sitepoint.com/dynamic-gradient-text-function-sass/) by [@Cathy Dutton](http://www.sitepoint.com/dynamic-gradient-text-function-sass/)
+- [Emulate the Invert Filter Effect with Sass](http://davidwalsh.name/invert-color-sass) by [@Ana Tudor](http://about.me/thebabydino)
 
 ###@import
 
