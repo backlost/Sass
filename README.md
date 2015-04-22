@@ -52,7 +52,7 @@ Collection best of Sass Mixins and Function.If you have seen good and meaningful
 
 - [Sass Theming with Configuration Files](http://www.sitepoint.com/sass-theming-withconfiguration-files/) by [@Adam Onishi](http://www.sitepoint.com/author/onishiweb/)
 - [Theming Form Elements with Sass](http://www.sitepoint.com/theming-form-elements-sass/) by [@Dennis Gaebel](http://www.sitepoint.com/author/dgaebel/)（南北认领）
-- [Smarter Sass Mixins with Null](http://blog.teamtreehouse.com/smarter-sass-mixins-null) by [@Guil Hernandez](http://blog.teamtreehouse.com/author/guillermohernandez)（南北认领）
+- [Smarter Sass Mixins with Null](http://blog.teamtreehouse.com/smarter-sass-mixins-null) by [@Guil Hernandez](http://blog.teamtreehouse.com/author/guillermohernandez)——[译文](http://www.w3cplus.com/preprocessor/smarter-sass-mixins-null.html) by [@南北](http://weibo.com/sunchongsheng)
 - [The Self-Aware Sass Mixin](http://lunelson.roughdraft.io/cc1b431a69360949dc01-the-self-aware-sass-mixin) by [@Lunelson](https://github.com/lunelson)——[译文](http://www.w3cplus.com/preprocessor/the-self-aware-sass-mixin.html) by [@南北](http://weibo.com/sunchongsheng)
 - [How to use ampersands to simplifiy your sass](http://seesparkbox.com/foundry/how_to_use_ampersands_to_simplifiy_your_sass) by [@Hearsparkbox](https://twitter.com/hearsparkbox)
 - [When to use @⁠extend; when to use a mixin](http://csswizardry.com/2014/11/when-to-use-extend-when-to-use-a-mixin/) by@[award-winning](https://thenetawards.com/)
