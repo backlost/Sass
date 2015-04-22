@@ -38,6 +38,8 @@ Collection best of Sass Mixins and Function.If you have seen good and meaningful
 
 ###Workflow
 
+- [Learnings from using Sass in large scale projects](https://medium.com/@drublic/learnings-from-using-sass-in-large-scale-projects-4a37d02acb6b) by [@Hans Christian Reinl](https://medium.com/@drublic)
+- [Ruby Sass, LibSass – What's the Difference?](http://sassbreak.com/ruby-sass-libsass-differences/) by @Guil Hernandez
 - [Aesthetic Sass 1: Architecture and Style Organization](https://scotch.io/tutorials/aesthetic-sass-1-architecture-and-style-organization) by [@David Khourshid](https://scotch.io/author/david)
 - [A Look at Different Sass Architectures](http://www.sitepoint.com/look-different-sass-architectures/) by [@Vinay Raghu](http://www.sitepoint.com/author/vraghu/)——[译文](http://www.w3cplus.com/preprocessor/look-different-sass-architectures.html) by [@南北](http://weibo.com/sunchongsheng)
 - [HOW I IMPROVED MY WORKFLOW WITH SMACSS & SASS](http://bramsmulders.com/how-i-improved-my-workflow-with-smacss-sass.html) by [@bramsmulders](http://twitter.com/bramsmulders)
@@ -48,6 +50,7 @@ Collection best of Sass Mixins and Function.If you have seen good and meaningful
 
 ###Mixins
 
+- [Sass Theming with Configuration Files](http://www.sitepoint.com/sass-theming-withconfiguration-files/) by [@Adam Onishi](http://www.sitepoint.com/author/onishiweb/)
 - [Theming Form Elements with Sass](http://www.sitepoint.com/theming-form-elements-sass/) by [@Dennis Gaebel](http://www.sitepoint.com/author/dgaebel/)（南北认领）
 - [Smarter Sass Mixins with Null](http://blog.teamtreehouse.com/smarter-sass-mixins-null) by [@Guil Hernandez](http://blog.teamtreehouse.com/author/guillermohernandez)（南北认领）
 - [The Self-Aware Sass Mixin](http://lunelson.roughdraft.io/cc1b431a69360949dc01-the-self-aware-sass-mixin) by [@Lunelson](https://github.com/lunelson)——[译文](http://www.w3cplus.com/preprocessor/the-self-aware-sass-mixin.html) by [@南北](http://weibo.com/sunchongsheng)
@@ -65,6 +68,7 @@ Collection best of Sass Mixins and Function.If you have seen good and meaningful
 
 ###Typography
 
+- [Sass and Responsive Typography](http://www.sitepoint.com/sass-responsive-typography/) by [@James Steinbach](http://www.sitepoint.com/author/jsteinbach/)
 - [Using Sass to Build a Custom Type Scale with Vertical Rhythm](http://www.sitepoint.com/using-sass-build-custom-type-scale-vertical-rhythm/) by [@James Steinbach](http://www.sitepoint.com/author/jsteinbach/)
 - [Managing responsive typography with Sass](http://maketea.co.uk/2014/11/05/managing-responsive-typography-with-sass.html) by [@Matt Hinchliffe](https://twitter.com/i_like_robots)
 
