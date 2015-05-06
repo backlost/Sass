@@ -10,6 +10,7 @@ Collection best of Sass Mixins and Function.If you have seen good and meaningful
 
 ###Beginner
 
+- [Extending In Sass Without Creating A Mess](http://www.smashingmagazine.com/2015/05/04/extending-in-sass-without-mess/) by [@David Khourshid](http://www.smashingmagazine.com/author/davidkhourshid/)
 - [Sass Basics: Control Directives and Expressions](http://www.sitepoint.com/sass-basics-control-directives-expressions/) by [@Reggie Dawson](http://www.sitepoint.com/author/rdawson/)
 - [Your nesting is harmful](https://medium.com/@verpixelt/your-nesting-is-harmful-a1ffddaf7e43) by [@Kevin Lorenz](https://medium.com/@verpixelt)
 - [Getting Started with Sass (with interactive examples)](http://scotch.io/tutorials/css/getting-started-with-sass) by [@Ken Wheeler](http://scotch.io/author/kenwheeler)——[译文](http://www.w3cplus.com/preprocessor/getting-started-with-sass.html) by [@南北](http://weibo.com/sunchongsheng)
