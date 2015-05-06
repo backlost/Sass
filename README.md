@@ -21,6 +21,7 @@ Collection best of Sass Mixins and Function.If you have seen good and meaningful
 
 ###Advanced
 
+- [Sass Pixel Art](http://una.im/sass-pixel-art) by [@una](http://twitter.com/una)
 - [Vector Graphics in Sass](http://www.sitepoint.com/vector-graphics-sass/) by [@Tim Severien](http://www.sitepoint.com/author/tseverien/)——[译文](http://www.w3cplus.com/preprocessor/vector-graphics-sass.html) by [@南北](http://weibo.com/sunchongsheng)
 - [Getting Back To our @at-roots](http://sassbreak.com/getting-back-to-our-roots/) by [@David Conner ](https://twitter.com/Dave_Conner)
 
@@ -51,6 +52,7 @@ Collection best of Sass Mixins and Function.If you have seen good and meaningful
 
 ###Mixins
 
+- [Dynamically import only used Google Webfonts](http://advancedsass.com/articles/dynamically-import-only-used-google-webfonts.html) by @Roy
 - [Sass Theming with Configuration Files](http://www.sitepoint.com/sass-theming-withconfiguration-files/) by [@Adam Onishi](http://www.sitepoint.com/author/onishiweb/)
 - [Theming Form Elements with Sass](http://www.sitepoint.com/theming-form-elements-sass/) by [@Dennis Gaebel](http://www.sitepoint.com/author/dgaebel/)——[译文](http://www.w3cplus.com/preprocessor/theming-form-elements-sass.html) by [@南北](http://weibo.com/sunchongsheng)
 - [Smarter Sass Mixins with Null](http://blog.teamtreehouse.com/smarter-sass-mixins-null) by [@Guil Hernandez](http://blog.teamtreehouse.com/author/guillermohernandez)——[译文](http://www.w3cplus.com/preprocessor/smarter-sass-mixins-null.html) by [@南北](http://weibo.com/sunchongsheng)
