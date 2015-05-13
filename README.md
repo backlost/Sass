@@ -10,6 +10,7 @@ Collection best of Sass Mixins and Function.If you have seen good and meaningful
 
 ###Beginner
 
+- [Sass Basics: @-rules and Directives](http://www.sitepoint.com/sass-basics-rules-directives/) by [@Reggie Dawson](http://www.sitepoint.com/author/rdawson/)
 - [Extending In Sass Without Creating A Mess](http://www.smashingmagazine.com/2015/05/04/extending-in-sass-without-mess/) by [@David Khourshid](http://www.smashingmagazine.com/author/davidkhourshid/)
 - [Sass Basics: Control Directives and Expressions](http://www.sitepoint.com/sass-basics-control-directives-expressions/) by [@Reggie Dawson](http://www.sitepoint.com/author/rdawson/)
 - [Your nesting is harmful](https://medium.com/@verpixelt/your-nesting-is-harmful-a1ffddaf7e43) by [@Kevin Lorenz](https://medium.com/@verpixelt)
@@ -52,6 +53,7 @@ Collection best of Sass Mixins and Function.If you have seen good and meaningful
 
 ###Mixins
 
+- [Useful Sass Snippets](http://hmphry.com/useful-sass-mixins) by [@chdhmphry](https://twitter.com/chdhmphry)
 - [Dynamically import only used Google Webfonts](http://advancedsass.com/articles/dynamically-import-only-used-google-webfonts.html) by @Roy
 - [Sass Theming with Configuration Files](http://www.sitepoint.com/sass-theming-withconfiguration-files/) by [@Adam Onishi](http://www.sitepoint.com/author/onishiweb/)
 - [Theming Form Elements with Sass](http://www.sitepoint.com/theming-form-elements-sass/) by [@Dennis Gaebel](http://www.sitepoint.com/author/dgaebel/)——[译文](http://www.w3cplus.com/preprocessor/theming-form-elements-sass.html) by [@南北](http://weibo.com/sunchongsheng)
@@ -65,6 +67,7 @@ Collection best of Sass Mixins and Function.If you have seen good and meaningful
 
 ###Function
 
+- [USING SASS FUNCTIONS TO ACCESS VARIABLE MAPS](http://codepen.io/jakealbaugh/blog/using-sass-functions-to-access-complex-variable-maps) by [@Jake Albaugh](http://codepen.io/jakealbaugh/)
 - [A Bulletproof Function to Validate Length Values in Sass](http://www.sitepoint.com/bulletproof-function-validate-length-values-sass/) by [@Hugo Giraudel](http://www.sitepoint.com/author/hgiraudel/)
 - [Cubic Bézier representation in Sass](http://thesassway.com/advanced/cubic-bezier-representation-in-sass) by [@Tim Severien](http://twitter.com/timseverien) and [@Hugo Giraudel](http://twitter.com/hugogiraudel)
 - [Sass Basics: The Function Directive](http://www.sitepoint.com/sass-basics-function-directive/) by [@Reggie Dawson](http://www.sitepoint.com/author/rdawson/)
@@ -88,6 +91,7 @@ Collection best of Sass Mixins and Function.If you have seen good and meaningful
 
 ###Grids
 
+- [Living life with Flex-Box and Sass](http://anotheruiguy.roughdraft.io/83ff2c48b3e3a472f7ed-living-life-with-flex-box-and-sass) by [@Dale Sande](http://www.anotheruiguy.com/)
 - [How to use Masonry with Susy](http://www.zell-weekeat.com/masonry-with-susy/) by [@zellwk](https://twitter.com/zellwk)
 - [Bootstrap’s Grid System vs. Susy: A Comparison](http://www.sitepoint.com/bootstraps-grid-system-vs-susy-comparison/) by [@Zell Liew](http://www.sitepoint.com/bootstraps-grid-system-vs-susy-comparison/)
 - [Sass and Bourbon Neat for Lightweight Semantic Grids](http://www.sitepoint.com/sass-bourbon-neat-lightweight-semantic-grids/) by [@M. David Green](http://www.sitepoint.com/author/mdavidgreen/)
