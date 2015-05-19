@@ -157,7 +157,7 @@ Collection best of Sass Mixins and Function.If you have seen good and meaningful
 ###Step by Step
 
 - [Getting Started with Sass, Part 1](http://webstandardssherpa.com/reviews/getting-started-with-sass-part-1) by [@Laura Kalbag](http://webstandardssherpa.com/about/authors/laura-kalbag/)——[译文](http://www.w3cplus.com/preprocessor/getting-started-with-sass-part-1.html) by [@卢慧健](http://luxiaojian.me/)
-- [Getting Started with Sass, Part 2](http://webstandardssherpa.com/reviews/getting-started-with-sass-part-2) by [@Laura Kalbag](http://webstandardssherpa.com/about/authors/laura-kalbag/)
+- [Getting Started with Sass, Part 2](http://webstandardssherpa.com/reviews/getting-started-with-sass-part-2) by [@Laura Kalbag](http://webstandardssherpa.com/about/authors/laura-kalbag/)（[@lizimeow](https://github.com/lizimeow) 已认领）
 - [Getting Started with Sass, Part 3](http://webstandardssherpa.com/reviews/getting-started-with-sass-part-3/) by [@Laura Kalbag](http://webstandardssherpa.com/about/authors/laura-kalbag/)
 - [Sass for Big Sites, Part 1](http://webstandardssherpa.com/reviews/sass-for-big-sites-part-1) by [@Jackie Balzer](http://webstandardssherpa.com/about/authors/jackie-balzer/)
 - [Sass for Big Sites, Part 2](http://webstandardssherpa.com/reviews/sass-for-big-sites-part-2/) by [@Jackie Balzer](http://webstandardssherpa.com/about/authors/jackie-balzer/)
