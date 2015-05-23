@@ -53,7 +53,7 @@ Collection best of Sass Mixins and Function.If you have seen good and meaningful
 
 ###Mixins
 
-- [Useful Sass Snippets](http://hmphry.com/useful-sass-mixins) by [@chdhmphry](https://twitter.com/chdhmphry)
+- [Useful Sass Snippets](http://hmphry.com/useful-sass-mixins) by [@chdhmphry](https://twitter.com/chdhmphry) ——[译文](http://www.w3cplus.com/preprocessor/5-useful-sass-snippets.html) by [@大漠](http://www.w3cplus.com)
 - [Dynamically import only used Google Webfonts](http://advancedsass.com/articles/dynamically-import-only-used-google-webfonts.html) by @Roy
 - [Sass Theming with Configuration Files](http://www.sitepoint.com/sass-theming-withconfiguration-files/) by [@Adam Onishi](http://www.sitepoint.com/author/onishiweb/)
 - [Theming Form Elements with Sass](http://www.sitepoint.com/theming-form-elements-sass/) by [@Dennis Gaebel](http://www.sitepoint.com/author/dgaebel/)——[译文](http://www.w3cplus.com/preprocessor/theming-form-elements-sass.html) by [@南北](http://weibo.com/sunchongsheng)
