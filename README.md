@@ -25,6 +25,7 @@ Collection best of Sass Mixins and Function.If you have seen good and meaningful
 - [Sass Pixel Art](http://una.im/sass-pixel-art) by [@una](http://twitter.com/una)
 - [Vector Graphics in Sass](http://www.sitepoint.com/vector-graphics-sass/) by [@Tim Severien](http://www.sitepoint.com/author/tseverien/)——[译文](http://www.w3cplus.com/preprocessor/vector-graphics-sass.html) by [@南北](http://weibo.com/sunchongsheng)
 - [Getting Back To our @at-roots](http://sassbreak.com/getting-back-to-our-roots/) by [@David Conner ](https://twitter.com/Dave_Conner)
+- [Sass Theming: The Neverending Story](http://www.sitepoint.com/sass-theming-neverending-story/) by [@Hugo Giraudel](http://www.sitepoint.com/author/hgiraudel/)
 
 ###Sass Variables
 
