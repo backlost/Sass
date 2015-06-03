@@ -54,6 +54,7 @@ Collection best of Sass Mixins and Function.If you have seen good and meaningful
 
 ###Mixins
 
+- [Sass Mixin and Media Merging](http://www.sitepoint.com/sass-mixin-media-merging/) by [@Hugo Giraudel](http://www.sitepoint.com/author/hgiraudel/)
 - [Useful Sass Snippets](http://hmphry.com/useful-sass-mixins) by [@chdhmphry](https://twitter.com/chdhmphry) ——[译文](http://www.w3cplus.com/preprocessor/5-useful-sass-snippets.html) by [@大漠](http://www.w3cplus.com)
 - [Dynamically import only used Google Webfonts](http://advancedsass.com/articles/dynamically-import-only-used-google-webfonts.html) by @Roy
 - [Sass Theming with Configuration Files](http://www.sitepoint.com/sass-theming-withconfiguration-files/) by [@Adam Onishi](http://www.sitepoint.com/author/onishiweb/)
